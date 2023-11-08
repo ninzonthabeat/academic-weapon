@@ -1,2 +1,2 @@
-# academic-weapon
-bruke matematisk programvare til å visualisere og løse relevante problemstillinger i flervariabelanalyse? null stress 😎
+# 🛠️ academic-weapon
+matematisk programvare som python til å visualisere og løse problemstillinger i matematiske metoder 3? academic lethal weapon. 
