@@ -1,2 +1,2 @@
 # 🛠️ academic-weapon
-Python til å visualisere og løse problemstillinger i matematiske metoder 3
+Python til å visualisere og løse problemstillinger i IMAT2100 H2023
